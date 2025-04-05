@@ -19,5 +19,6 @@ Each project showcases a different aspect of advanced object-oriented programmin
 
 - **C++**
 - **C++ Standard Library (STL)**
-- IDE: [Clion]
+- **Python**
+- IDE: [Clion, Pycharm]
 - Version control with Git

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TSP.hpp
+vector
+-
+numeric
+-
+ostream
+-
+tsp_setup.hpp
+../include/tsp_setup.hpp
+
+../include/tsp_setup.hpp
+limits
+-
+vector
+-
+
+D:/semestr_3/zpo/clion_projects/tsp/main.cpp
+TSP.hpp
+D:/semestr_3/zpo/clion_projects/tsp/TSP.hpp
+iostream
+-
+
+D:/semestr_3/zpo/clion_projects/tsp/src/TSP.cpp
+TSP.hpp
+D:/semestr_3/zpo/clion_projects/tsp/src/TSP.hpp
+algorithm
+-
+stack
+-
+optional
+-
+

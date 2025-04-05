@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="tsp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp_debug">
+				<Option output="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/tsp_debug.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/include"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 tsp_debug"/>
+					<CompileFile command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tsp_debug/fast">
+				<Option output="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/tsp_debug.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/include"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/ProgramFiles/msys2/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 tsp_debug/fast"/>
+					<CompileFile command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/ProgramFiles/msys2/mingw64/bin/mingw32-make.exe -f &quot;D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/main.cpp">
+			<Option target="tsp_debug"/>
+		</Unit>
+		<Unit filename="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/src/tsp.cpp">
+			<Option target="tsp_debug"/>
+		</Unit>
+		<Unit filename="D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,3 @@
+D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/CMakeFiles/tsp_debug.dir
+D:/semestr_3/zpo/skrypt/Rozwiazania od prowadzacych/5-7) Komiwojazer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
